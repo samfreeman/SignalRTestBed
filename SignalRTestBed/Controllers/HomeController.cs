@@ -8,6 +8,7 @@ namespace SignalRTestBed.Controllers
 	{
 		public ActionResult Index()
 		{
+			// Maybe add a model to this
 			return View();
 		}
 	}
